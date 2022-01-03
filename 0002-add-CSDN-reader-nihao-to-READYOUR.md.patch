@@ -1,0 +1,20 @@
+From b67f179d63e35e297509355ec93e9f069b3fa15c Mon Sep 17 00:00:00 2001
+From: yolre <291384100@qq.com>
+Date: Mon, 3 Jan 2022 15:25:40 +0800
+Subject: [PATCH 2/2] add CSDN reader nihao to READYOUR.md
+
+---
+ READYOUR.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 READYOUR.md
+
+diff --git a/READYOUR.md b/READYOUR.md
+new file mode 100644
+index 0000000..5e6911b
+--- /dev/null
++++ b/READYOUR.md
+@@ -0,0 +1 @@
++CSDN reader nihao
+-- 
+2.34.1.windows.1
+
